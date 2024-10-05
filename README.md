@@ -1,16 +1,15 @@
-# scroll_animations
+# MCFC
 
-A new Flutter project.
+A Minecraf Group.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is about our server and its infos.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started with our project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Visite our live website:](https://argon-ability-367217.firebaseapp.com/?fbclid=IwZXh0bgNhZW0CMTEAAR2_jouIB_gJbeZ4FXQtol0KkpRQufF1UZa1EJKxMNtWvzWuYHvX2uPNsbk_aem_eCSfmnhrpTKrBvhAJMMRDQ)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+For help getting started with MCFC, Contact us.
+
