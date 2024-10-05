@@ -1,0 +1,149 @@
+{
+   "checksum": "edb3f6fa498eb3f17b9ec8f0158cb8fc",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13289072065083227",
+            "date_last_used": "0",
+            "guid": "d47d6a6a-61f0-4c67-b378-7006cb78bd78",
+            "id": "6",
+            "name": "new tab",
+            "type": "url",
+            "url": "edge://newtab/"
+         }, {
+            "date_added": "13319452805549785",
+            "date_last_used": "0",
+            "guid": "e0dcae97-669b-4a34-9f85-b043874176f3",
+            "id": "7",
+            "name": "project management",
+            "type": "url",
+            "url": "https://mds560683.monday.com/boards/3888896427"
+         }, {
+            "date_added": "13321959378072383",
+            "date_last_used": "13363542840290177",
+            "guid": "2709bf3c-629a-4b53-acea-0aa708638840",
+            "id": "8",
+            "name": "Formula 1 Drive to Survive season 5 Netflix 2023 All Episodes Watch online live free - Watch NHL Full Match",
+            "type": "url",
+            "url": "https://fullraces.com/formula-1-drive-to-survive-season-5-netflix-2023-all-episodes-watch-online-live-free"
+         }, {
+            "date_added": "13325183370303727",
+            "date_last_used": "0",
+            "guid": "06a15be6-d36f-4a15-b6cf-fd51e066dc34",
+            "id": "9",
+            "name": "kandi: find open source libraries, code snippets",
+            "type": "url",
+            "url": "https://kandi.openweaver.com/?landingpage=python_all_codesnippets&utm_source=youtube&utm_medium=cpc&utm_campaign=promo_kandi_ie&utm_content=kandi_ie_buildwith&utm_term=python_devs&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fJqXEFUv-NdWlVfzLPmHUc4FQLV07G1HQCR7kTuuOZK_hhI0QUXHk4aAi6oEALw_wcB"
+         }, {
+            "date_added": "13331221312953515",
+            "date_last_used": "13371396710123913",
+            "guid": "d68bfd41-1314-4c44-a370-ca322d8a335f",
+            "id": "10",
+            "name": "Server | Aternos | Free Minecraft Server",
+            "type": "url",
+            "url": "https://aternos.org/server/"
+         }, {
+            "date_added": "13331630974972116",
+            "date_last_used": "0",
+            "guid": "8de30de2-2749-47e2-89fa-b6e369364732",
+            "id": "11",
+            "name": "Problems - LeetCode",
+            "type": "url",
+            "url": "https://leetcode.com/problemset/all/"
+         }, {
+            "date_added": "13331742906146371",
+            "date_last_used": "13332002729060771",
+            "guid": "dcfdc6ed-b115-4c1a-adee-07f8190e0ab2",
+            "id": "12",
+            "name": "Task Manager – Figma",
+            "type": "url",
+            "url": "https://www.figma.com/file/oJhrzT3dCVC1yWpKOiT4pp/Task-Manager?type=design&node-id=0-1&t=eO7TMql0ZIPuqBxa-0"
+         }, {
+            "date_added": "13372440297031281",
+            "date_last_used": "0",
+            "guid": "e89adfe8-15c9-4ae1-9bf8-10b8a4ce9180",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Roadmap",
+            "type": "url",
+            "url": "https://neetcode.io/roadmap"
+         }, {
+            "date_added": "13332614110391491",
+            "date_last_used": "13364838578618720",
+            "guid": "29c6b502-43dc-4117-8aea-60350c7c64f8",
+            "id": "14",
+            "name": "Live Streams at SoccerStreams",
+            "type": "url",
+            "url": "https://www.soccerstreams.football/reddit-soccer-streams-free"
+         }, {
+            "date_added": "13331826223363801",
+            "date_last_used": "13332002734405883",
+            "guid": "4dfa5466-c43f-45b2-b2a3-1af0ad681d2c",
+            "id": "15",
+            "name": "FUNCTION12 - Figma design to code automation for professionals",
+            "type": "url",
+            "url": "https://function12.io/"
+         }, {
+            "date_added": "13334870383181583",
+            "date_last_used": "0",
+            "guid": "6374f7ef-af1b-4e96-9633-d1c31d68cf95",
+            "id": "16",
+            "name": "DuckDuckGo — Privacy, simplified.",
+            "type": "url",
+            "url": "https://duckduckgo.com/"
+         }, {
+            "date_added": "13353603670746507",
+            "date_last_used": "0",
+            "guid": "0b66eada-5894-4e89-a1a9-fd43ff54e702",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Top games - itch.io",
+            "type": "url",
+            "url": "https://itch.io/games"
+         }, {
+            "date_added": "13369067755867149",
+            "date_last_used": "0",
+            "guid": "1a801613-d0e1-4bbd-a4bd-e531b4237c84",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT - HackerGPT",
+            "type": "url",
+            "url": "https://chatgpt.com/g/g-sCFuZUbrq-hackergpt/c/eea3c559-552e-42e3-873a-612b2fb89bc0"
+         } ],
+         "date_added": "13372527635318632",
+         "date_last_used": "0",
+         "date_modified": "13372440297031281",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13372527635318634",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13372527635318636",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

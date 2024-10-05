@@ -1,0 +1,192 @@
+{
+   "checksum": "792ad9daaf6c14f5e412d020284355f1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13289072065083227",
+            "date_last_used": "0",
+            "guid": "d47d6a6a-61f0-4c67-b378-7006cb78bd78",
+            "id": "6",
+            "name": "new tab",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "edge://newtab/",
+            "visit_count": 0
+         }, {
+            "date_added": "13319452805549785",
+            "date_last_used": "0",
+            "guid": "e0dcae97-669b-4a34-9f85-b043874176f3",
+            "id": "7",
+            "name": "project management",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mds560683.monday.com/boards/3888896427",
+            "visit_count": 0
+         }, {
+            "date_added": "13321959378072383",
+            "date_last_used": "13363542840290177",
+            "guid": "2709bf3c-629a-4b53-acea-0aa708638840",
+            "id": "8",
+            "name": "Formula 1 Drive to Survive season 5 Netflix 2023 All Episodes Watch online live free - Watch NHL Full Match",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://fullraces.com/formula-1-drive-to-survive-season-5-netflix-2023-all-episodes-watch-online-live-free",
+            "visit_count": 0
+         }, {
+            "date_added": "13325183370303727",
+            "date_last_used": "0",
+            "guid": "06a15be6-d36f-4a15-b6cf-fd51e066dc34",
+            "id": "9",
+            "name": "kandi: find open source libraries, code snippets",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://kandi.openweaver.com/?landingpage=python_all_codesnippets&utm_source=youtube&utm_medium=cpc&utm_campaign=promo_kandi_ie&utm_content=kandi_ie_buildwith&utm_term=python_devs&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fJqXEFUv-NdWlVfzLPmHUc4FQLV07G1HQCR7kTuuOZK_hhI0QUXHk4aAi6oEALw_wcB",
+            "visit_count": 0
+         }, {
+            "date_added": "13331221312953515",
+            "date_last_used": "13371396710123913",
+            "guid": "d68bfd41-1314-4c44-a370-ca322d8a335f",
+            "id": "10",
+            "name": "Server | Aternos | Free Minecraft Server",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://aternos.org/server/",
+            "visit_count": 1
+         }, {
+            "date_added": "13331630974972116",
+            "date_last_used": "0",
+            "guid": "8de30de2-2749-47e2-89fa-b6e369364732",
+            "id": "11",
+            "name": "Problems - LeetCode",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://leetcode.com/problemset/all/",
+            "visit_count": 0
+         }, {
+            "date_added": "13331742906146371",
+            "date_last_used": "13332002729060771",
+            "guid": "dcfdc6ed-b115-4c1a-adee-07f8190e0ab2",
+            "id": "12",
+            "name": "Task Manager – Figma",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.figma.com/file/oJhrzT3dCVC1yWpKOiT4pp/Task-Manager?type=design&node-id=0-1&t=eO7TMql0ZIPuqBxa-0",
+            "visit_count": 0
+         }, {
+            "date_added": "13372440297031281",
+            "date_last_used": "0",
+            "guid": "e89adfe8-15c9-4ae1-9bf8-10b8a4ce9180",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Roadmap",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://neetcode.io/roadmap",
+            "visit_count": 1
+         }, {
+            "date_added": "13332614110391491",
+            "date_last_used": "13364838578618720",
+            "guid": "29c6b502-43dc-4117-8aea-60350c7c64f8",
+            "id": "14",
+            "name": "Live Streams at SoccerStreams",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.soccerstreams.football/reddit-soccer-streams-free",
+            "visit_count": 0
+         }, {
+            "date_added": "13331826223363801",
+            "date_last_used": "13332002734405883",
+            "guid": "4dfa5466-c43f-45b2-b2a3-1af0ad681d2c",
+            "id": "15",
+            "name": "FUNCTION12 - Figma design to code automation for professionals",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://function12.io/",
+            "visit_count": 0
+         }, {
+            "date_added": "13334870383181583",
+            "date_last_used": "0",
+            "guid": "6374f7ef-af1b-4e96-9633-d1c31d68cf95",
+            "id": "16",
+            "name": "DuckDuckGo — Privacy, simplified.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://duckduckgo.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13353603670746507",
+            "date_last_used": "0",
+            "guid": "0b66eada-5894-4e89-a1a9-fd43ff54e702",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Top games - itch.io",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://itch.io/games",
+            "visit_count": 0
+         }, {
+            "date_added": "13369067755867149",
+            "date_last_used": "0",
+            "guid": "1a801613-d0e1-4bbd-a4bd-e531b4237c84",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT - HackerGPT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chatgpt.com/g/g-sCFuZUbrq-hackergpt/c/eea3c559-552e-42e3-873a-612b2fb89bc0",
+            "visit_count": 1
+         } ],
+         "date_added": "13372527635318632",
+         "date_last_used": "0",
+         "date_modified": "13372440297031281",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13372527635318634",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13372527635318636",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCAiaAlOSAQAAEgAqGFdKZjBwNU9la29hTVZFR1VTY2I3Wmc9PUgDoAYHEq4BCBISqQEKHHU0MmFHQnZ0c1B1UW5UM1hTYmJnZmwwdWJIMD0SJDFhODAxNjEzLWQwZTEtNGJiZC1hNGJkLWU1MzFiNDIzN2M4NBgAIAAoADC9/cnOmDI4zv/JzpgyQM7/yc6YMkocRHFDd0pZQnhNRXYxaERHWEwzRWExRTNBTkw0PVogIh7/9Vdwd25RQmowY3plV29hWFNpVmczMXRMSTNTVT1lwArtWMI+AmAFEq4BCBESqQEKHGl0UDZJK1FMNFB0bTNScWtRamtxd3ZJb01FYz0SJDBiNjZlYWRhLTU4OTQtNGU4OS1hMWE5LWZkNDNmZjU0ZTcwMhgAIAAoADDqjN2A3zE4lY/dgN8xQJWP3YDfMUocWmh5WmdUcjdhRG1xVHl3U29ySSt0RHFiZFY4PVogIh7/6ndyQURrWVc2THE1TUo3RGdhZ29SQXZKWTlzcz1lfVENj8I+AmAFEq4BCBASqQEKHGJGNjgxOVo1djBkRHFzZWVIOTdCTU4wOE9CQT0SJDYzNzRmN2VmLWFmMWItNGU5Ni05NjMzLWQxYzMxZDY4Y2Y5NRgAIAAoADDZtYCcmTE4wpKAnJkxQMKSgJyZMUocTzhRK21BOFFrWHlzeHZRa1llb0IxZnhxdUZNPVogIh7/1GtreGcwaHN5TVpIdm96Nlc3Q3lidEN2YXBHTT1lSmZo+MI+AmAFEq4BCA8SqQEKHFRkb2Y2MDUzV3QwT25odW5RWDF3ZmV1dURoTT0SJDRkZmE1NDY2LWM0M2YtNDViMi1iMmEzLTFhZjBhZDY4MWQyYxgAIAAoADCHtIqYpTI4xJe38I0xQMSXt/CNMUocSXhsZnJXUFBUTGhrM0dqR3FPYitjWUk0R0V3PVogIh7/vlpsK1VQaUJzLzYzaHl5YWVGakh6UWlZeVR5Zz1lbO70zsI+AmAFEq0BCA0SqAEKHGdLRCtxQURwWUVySWtHZWZtdms3K3FnMDZmbz0SJGU4OWFkZmU4LTE1YzktNGFlMS05YmY4LTEwYjhhNGNlOTE4MBgAIAAoADCOj4qYpTI4v8TdlqUyQL/E3ZalMkocdkdsQWxCMDUySk5pVGFtY29FalJ4cCtHREFRPVofIh3/RnN0SEN4YkU5cUlZTFhVTUgraXZ0d1FYMVJrPWUvbp2Wwj4CYAUSrQEIDBKoAQocMUpoYUtINmpzaUhwWTJucmczbVk4ZkNSWWpZPRIkZGNmZGM2ZWQtYjExNS00YzFhLWFkZWUtMDdmODE5MGUwYWIyGAAgACgAMKSIg9HJMTjbg9rIjTFA24PayI0xShxSMFBwbUZzT1hLNVVyMGNTTFk4am5ZenF2S2M9Wh8iHf8xQ3F1YU1QdUZPVy9DaGllbHl1WHFON0lWcTA9Ze8AjofCPgJgBRKsAQgHEqcBChxkZ0cvZzIrWWdvL2l2QWpCSkhBZFFwZjRoRnc9EiRlMGRjYWU5Ny02NjliLTRhMzQtOWY4NS1iMDQzODc0MTc2ZjMYACAAKAAwk9Oc6vQwOJPWqeTfMECT1qnk3zBKHHJNVmlYbXNrdm9CSFRrYStIMjFibDhOOHFydz1aHiIceGNWOGRrN3lIS054bWFpN2hLZXkwd2xrY3pnPWXf/0gCwj4CYAUSrQEIChKoAQocMmZQRzlZamhpQS9ldHlLQWRaV3BZSGNKcXpRPRIkZDY4YmZkNDEtMTMxNC00YzQ0LWEzNzAtY2EzMjJkOGEzMzVmGAAgACgAML+cjqWhMji5uf7PizFAubn+z4sxShxHNXk1UmZHZGNEWnJ1MjBsR3hYS0ZBa1lKNU09Wh8iHf1vSmNmcmphTmxzQ3RNMlNDcTMrZlN6T1BwVFk9ZRXRRJrCPgJgBRKtAQgLEqgBChx2QmtRbktjcXVoc1lBS0l5cmlCNVpteGFnWW89EiQ4ZGUzMGRlMi0yNzQ5LTQ3ZTItODlmYS1iNmUzNjkzNjQ3MzIYACAAKAAw55+qk40xOPmPqpONMUD5j6qTjTFKHFAzK0EyYnRyZkx3Y0RENGdQdk9VQXIxakJhND1aHyId/kJlbXl5Mk9wUGdWOVBHN3lPMlhRbWwvSXc0bz1lpic928I+AmAFEq0BCAkSqAEKHFJwUHQzZ2Rsa0NvTzVXRVdpTUcra1gzNnRCUT0SJDA2YTE1YmU2LWQzNmYtNGExNS1iNmNmLWZkNTFlMDY2ZGMzNBgAIAAoADCe8JC89TA4qN3vkPUwQKjd75D1MEoceElrcEJ6c3JScjZ3R0tNYmU5VVZreUFkVzlrPVofIh3vT2hBZlhTaGVaMTdHTE43TnRCZU82c0FXZDJjPWXh5bDswj4CYAUSjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkNDQ3YWFmOGEtZjFjYy01MDlmLWEzZmQtMzQ4ODNkOWUzODQwGAAgACgAMKbu/oXkLjiD3J+E6y9Ag9yfhOsvShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAEq0BCAgSqAEKHExzeEpXMVRjT3o1WW1Ec2hyYlZzay9HcDZITT0SJDI3MDliZjNjLTYyOWEtNGI1My1hY2VhLTBhYTcwODYzODg0MBgAIAAoADDovI2EhDI4y9/Gj+kwQMvfxo/pMEocQ1BBd0NlUmg3aWNvT0x2Z3BhY0ErMTMwSmhZPVofIh3eNmRWRXZPeDVuZ0lMYko3dGhjc0Z0cnBieHRNPWXR2Jfdwj4CYAUSrgEIDhKpAQoceDl1MUZrSkJGby9SL3NkdGtxWmx2RUhYOTNvPRIkMjljNmI1MDItNDNkYy00MTE3LThhZWEtNjAzNTBjN2M2NGY4GAAgACgAMN69+u2IMjitiJDokDFArYiQ6JAxShw0KzFYMi82dDNUSEs2VFdZYy9pUVliRitoWG89WiAiHv+oK05teVZyMm05OUNISVdlWVZUL1p4SmNTUi9zPWVqY7j7wj4CYAUSrAEIBhKnAQocT1dSZjErMEtDekpyUGQ2VUJQSWlQVndIemxRPRIkZDQ3ZDZhNmEtNjFmMC00YzY3LWIzNzgtNzAwNmNiNzhiZDc4GAAgACgAMPfC1s3uLziL3tTN7i9Ai97Uze4vShxqbWJHOFdzN1gyb3pBZ3VZb3dGRnVyMFlvVDg9Wh4iHHhOay9DeCt1cDBydk9yTG8vbTgwVXFNNEgxbz1l2K+wAsI+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDAzODRjNTg3LTNhZDItNWE0NC04ZWU5LTJiOWM1YjhhYTVkMRgAIAAoADCh7v6F5C44ltufhOsvQJbbn4TrL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQwZmYyNjJlZC1kYjA3LTUxMTgtYmY4MC03ZWU0MDk0NTJkNDQYACAAKAAwou7+heQuOLXbn4TrL0C125+E6y9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}
