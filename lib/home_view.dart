@@ -33,7 +33,7 @@ class HomeView extends StatelessWidget {
               offsetBuilder: (scrollOffset)
               {
                 final offsetper = min(scrollOffset / screenSize.height, 1);
-                final hightper = screenSize.height * 1 * offsetper;
+                //final hightper = screenSize.height * 1 * offsetper;
                 final bool startmovin = scrollOffset >= screenSize.height * 0.8;
                 final onscreenOffset = screenSize.height * 2 * offsetper;
                 return Offset(0,
