@@ -3,6 +3,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 //import 'package:google_fonts/google_fonts.dart';
 import 'package:responsive_builder/responsive_builder.dart';
+import 'package:flutter_animate/flutter_animate.dart';
 
 import 'mobile_view.widget.dart';
 const overlayDescriptionText =
@@ -14,6 +15,7 @@ class mobileView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final screenSize = MediaQuery.of(context).size;
+    bool startMovin = false;
     return Scaffold(
       backgroundColor: const Color(0xffFEE5CA),
       body: ScrollTransformView(
@@ -42,6 +44,7 @@ class mobileView extends StatelessWidget {
                       final offsetper = min(scrollOffset / screenSize.height, 1);
                       //final hightper = screenSize.height * 1 * offsetper;
                       final bool startmovin = scrollOffset >= screenSize.height * 0.8;
+                      startMovin = startmovin;
                       final onscreenOffset = screenSize.height * 2 * offsetper;
                       return Offset(0,
                           !startmovin?
@@ -51,11 +54,24 @@ class mobileView extends StatelessWidget {
 
                       );
                     } ,
-                  ),
+                  ).animate().slideX(duration: 1000.ms),
                   ScrollTransformItem(builder: (scrollOffset)
                   {return const mobileOverlayText();},
                     offsetBuilder: (scrollOffset) => Offset(0, -screenSize.height),
 
+                  ),
+                  ScrollTransformItem(builder: (context){
+                      if(!startMovin){return const
+                        Text(overlayDescriptionText,
+                          style: TextStyle(color: Colors.white, fontSize: 20),
+                        ).animate().slideX(duration: 1000.ms);
+                      }else{
+                        return const Text('no animation',
+                          style: TextStyle(color: Colors.white, fontSize: 20),
+                        );
+                      }
+                        },
+                      offsetBuilder: (scrollOffset) => Offset(0, -(screenSize.height/2)),
                   ),
                   ScrollTransformItem(builder: (context){return const mobileBottomWidget();})
 
