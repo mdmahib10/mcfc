@@ -2,7 +2,7 @@ import 'package:google_fonts/google_fonts.dart';
 
 
 import 'package:flutter/material.dart';
-import 'mobile_view.dart';
+//import 'mobile_view.dart';
 
 //import '../home_view.dart';
 
@@ -50,7 +50,7 @@ class mobileOverlayText extends StatelessWidget {
     return SizedBox(
       height: screenSize.height,
       width: screenSize.width,
-      child: const Stack(
+      child: const Column(
         children: [
           _TitleText(
             text: 'CONQUER',
@@ -77,12 +77,9 @@ class mobileOverlayText extends StatelessWidget {
             top: 170,
             child: SizedBox(
               width: 470,
-              child: Text(
-                overlayDescriptionText,
-                style: TextStyle(color: Colors.white, fontSize: 20),
-              ),
             ),
           ),
+
         ],
       ),
     );
@@ -112,3 +109,4 @@ class _TitleText extends StatelessWidget {
         ));
   }
 }
+
